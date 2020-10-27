@@ -1,0 +1,19 @@
+[debug] Packaging E:\Programming\Code-Repo\sparkPlayground\target\scala-2.12\sparkplayground_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	MN212142_9392.csv
+[debug] 	  E:\Programming\Code-Repo\sparkPlayground\target\scala-2.12\classes\MN212142_9392.csv
+[debug] 	SimpleMain$.class
+[debug] 	  E:\Programming\Code-Repo\sparkPlayground\target\scala-2.12\classes\SimpleMain$.class
+[debug] 	SimpleMain.class
+[debug] 	  E:\Programming\Code-Repo\sparkPlayground\target\scala-2.12\classes\SimpleMain.class
+[debug] 	TemperatureExploration$.class
+[debug] 	  E:\Programming\Code-Repo\sparkPlayground\target\scala-2.12\classes\TemperatureExploration$.class
+[debug] 	TemperatureExploration.class
+[debug] 	  E:\Programming\Code-Repo\sparkPlayground\target\scala-2.12\classes\TemperatureExploration.class
+[debug] 	TemperatureRecord$.class
+[debug] 	  E:\Programming\Code-Repo\sparkPlayground\target\scala-2.12\classes\TemperatureRecord$.class
+[debug] 	TemperatureRecord.class
+[debug] 	  E:\Programming\Code-Repo\sparkPlayground\target\scala-2.12\classes\TemperatureRecord.class
+[debug] 	TX417945_8515.csv
+[debug] 	  E:\Programming\Code-Repo\sparkPlayground\target\scala-2.12\classes\TX417945_8515.csv
+[debug] Done packaging.

@@ -1,0 +1,9 @@
+[debug] > Exec(compile, None, None)
+[debug] Evaluating tasks: Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to E:\Programming\Code-Repo\sparkPlayground\target\scala-2.12\classes ...
+[info] done compiling
+[success] Total time: 1 s, completed Oct 26, 2020, 8:32:45 AM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
